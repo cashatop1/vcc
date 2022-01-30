@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title >Tesla.ru</title>
+<div align="center" style="color:#FF0000">ПРИВЕТ МОЙ ДРУГ</div>
+<div align="center" style="color:#008000">СЕЙЧАС Я ВАМ РАССКАЖУ О Tesla</div>
+<div align="center" style="#FF3078">ВОТ САМА Tesla</div>
+<img src="scale_1200.jpg" alt="400" width="400">
+<img src="avto-tesla.GIF" alt="350" width="475">
+<img src="par.jpeg" alt="400" width="400">
+<div align="center" style="color:#008000">ИСТОРИЯ Tesla
+    <font size="200"></font>
+</div>
+<table>
+  <tr>
+    <td>Компания Tesla (основанная как Tesla Motors) была зарегистрирована 1 июля 2003 года Мартином Эберхардом и Марком Тарпеннингом. Ян Райт был третьим сотрудником Tesla, присоединившимся к ней несколько месяцев спустя. В феврале 2004 года трое основателей привлекли инвестиции в размере 7,5 млн долларов США, при этом Илон Маск внес 6,5 млн долларов. Маск стал председателем совета директоров и назначил Эберхарда генеральным директором.
+
+Целью Tesla было начать со спортивного автомобиля премиум-класса, ориентированного на первых пользователей, а затем перейти к более массовым автомобилям, включая седаны и доступные компактные автомобили. Прототипы первого автомобиля Tesla были официально представлены публике 19 июля 2006 года в Санта-Монике (Калифорния).
+
+В 2006 году Маску удалось, проведя несколько раундов финансирования от инвестиционных фондов и известных предпринимателей (включая соучредителей Google), привлечь 100 млн долларов. В результате Tesla начала производство своей первой модели Roadster в 2008 году.
+
+В январе 2010 года Tesla получила от Министерства энергетики США заём в размере 465 миллионов долларов, который компания погасила в 2013 году. В мае 2010 года Tesla начала строительство фабрики во Фримонте (Калифорния) для производства Model S.
+
+29 июня 2010 года Tesla начала первичное публичное размещение акций (IPO) на NASDAQ, став первой американской автомобильной компанией, осуществившей IPO, после Ford Motor в 1956 году. Это дало компании доступ к крупнейшему источнику финансирования.
+
+В июне 2012 года Tesla начала производство своего второго автомобиля — Model S. В июле 2017 года Tesla начала продавать седан Model 3.
+
+В мае 2017 года Илон Маск представил план развития компании, предусматривающий добавление в линейку электромобилей и грузовика[20].
+
+В 2019 году Tesla выкупит производителя батарей Maxwell, сумма сделки составит примерно 218 миллионов долларов. Обе стороны планируют завершить сделку во втором квартале 2019 года[21].</td>
+  </tr>
+</table>
+<div align="center" style="color:#800000" >ИНФОРМАЦИЯ О РАЗНЫХ МОДЕЛЕЙ ТЭСЕЛ
+  <font size="200"></font>
+</div>
+<style>
+body {font-family: Arial;}
+
+
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+.tab button:hover {
+  background-color: #DA70D6;
+}
+
+.tab button.active {
+  background-color: #00CED1;
+}
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+</style>
+</head>
+<body>
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Tesla Cybertruck')" id="defaultOpen">Tesla Cybertruck</button>
+  <button class="tablinks" onclick="openCity(event, 'Tesla Model X')">Tesla Model X</button>
+  <button class="tablinks" onclick="openCity(event, 'TESLA MODEL Y')">TESLA MODEL Y</button>
+  <button class="tablinks" onclick="openCity(event, 'Tesla Semi')">Tesla Semi</button>
+</div>
+
+<div id="Tesla Cybertruck" class="tabcontent">
+  <h3>Tesla Cybertruck</h3>
+  <p>В 2012 и 2013 годах Илон Маск обсуждал создание пикапа, схожего с Ford F-250. В начале 2014 год Маск предсказывал срок в 4-5 лет до начала работы над машиной.
+В 2016 г. Илон Маск заявил о создании пикапа с совершенно новыми свойствами. Также он упомянул возможность создания рамы и подвески для создания пикапа или небольшого фургона. В конце 2017 г. размер был определён как, по меньшей мере, схожий с Ford F-150. В процессе выкаток Tesla Semi и Tesla Roadster в ноябре 2017-го показывали картинку пикапа, способного перевозить пикап. Идеи этого пикапа прорабатывались по меньшей мере 5 лет.
+В позднем 2018 Tesla работала над двумя гранями своего пикапа. Первая грань — это использование основы Mercedes-Benz Sprinter с добавленными Tesla электрической трансмиссией, батареей и электроникой. Вторая грань — это производство собственного пикапа Tesla, что, требует больше времени. Прототип этого фургона был отвергнут в течение подготовки к шоу в 2019-м.
+В марте 2019, сразу после запуска Tesla Model Y, Илон Маск показывал изображение пикапа и говорил, что он будет в стиле киберпанк и не всем понравится из-за его футуристичных форм и стиля персонального защищенного транспорта.
+В течение презентации, которая состоялась с 22 на 23 ноября 2019 года по московскому времени, Илон Маск демонстрировал материалы, из которых сделан Tesla Cybertruck[4][5]. А это нержавеющая сталь и особо прочное стекло. Особо прочное стекло не разбилось в тесте прямо на презентации, но когда Франц фон Хольцхаузен металлическим шаром попытался разбить стекла в машине, они разбились[6]. Илон Маск пошутил, сказав что «ему есть над чем поработать» а также что это будет стёрто на видео.
+Перед концом презентации Илон Маск показал Tesla Cyberquad — полностью электрический квадроцикл. Его закатили в Tesla Cybertruck по рампе и, при том, он мог заряжаться от него (от розетки 120 вольт).</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_M7DvzhgnV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div id="Tesla Model X" class="tabcontent">
+  <h3>Tesla Model X</h3>
+  <p>Tesla Model X — полноразмерный электрический кроссовер производства компании Tesla. Прототип был впервые показан в Лос-Анджелесе 9 февраля 2012 года[1]. Коммерческие поставки начались 29 сентября 2015 года. Tesla Model X разрабатывается на базе платформы Tesla Model S и собирается на основном заводе компании во Фримонте, штат Калифорния.Обе модели оснащены батареей ёмкостью 90 киловатт-часов, запас хода 90D составляет 411 километров, у P90D — 400 километров. Базовая версия 70D получила батарею в 70 киловатт-часов, а её запас хода снижен до 354 км. Максимальная скорость ограничена «электроникой» на отметке в 250 км/ч. Коэффициент аэродинамического сопротивления Model X за счёт активного заднего спойлера составляет 0,24 — рекорд в своём классе[3].
+
+Ключевая особенность модели — автоматические двери в форме крыла чайки, которые Tesla называет «крыльями сокола», поскольку дверь имеет не жесткую Г-образную форму, а сгиб с изменяемым углом. Они облегчают доступ в автомобиль для пассажиров второго и третьего рядов, а также требуют меньше места на парковке — 30 см до ближайшей стены или машины[6]. Задние двери будут оснащены специальными датчиками, призванными оберегать их от ударов об окружающие предметы при открытии.
+
+Кроссовер может быть пяти-, шести- или семиместным — по желанию покупателя. Сиденья третьего ряда складываются в ровный пол и увеличивают место для багажа. Кроме того, дополнительный багажник находится спереди под капотом[3].</p>\
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aKra-KgUJIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div id="TESLA MODEL Y" class="tabcontent">
+  <h3>TESLA MODEL Y</h3>
+  <p>Tesla Model Y — электрический кроссовер производства компании Tesla. Модель была представлена в марте 2019 года[1], серийное производство начато на фабрике во Фримонте[en] в январе 2020[2], а поставки потребителям с 13 марта 2020[3]. Машина представлена как кроссовер среднего класса, аналогичная таким машинам как VW Touareg, Nissan Murano, Lexus RX и её электрическому конкуренту под названием Audi E-tron. Model Y предлагается с опциональным третьим рядом сидений в семиместной конфигурации[4].Tesla Model Y — электрический кроссовер производства компании Tesla. Модель была представлена в марте 2019 года[1], серийное производство начато на фабрике во Фримонте[en] в январе 2020[2], а поставки потребителям с 13 марта 2020[3]. Машина представлена как кроссовер среднего класса, аналогичная таким машинам как VW Touareg, Nissan Murano, Lexus RX и её электрическому конкуренту под названием Audi E-tron. Model Y предлагается с опциональным третьим рядом сидений в семиместной конфигурации[4].</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/yOzONh0bGxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div id="Tesla Semi" class="tabcontent">
+  <h3>Tesla Semi</h3>
+  <p>Разработкой грузовика руководит Джером Гильен, бывший программный директор Tesla S и вице-президент по проектированию транспортных средств[1].
+
+Первоначально презентация грузовика была запланирована на сентябрь 2017 года[2]. 4 октября 2017, за три недели до официального анонса, на сайте Reddit один из пользователей опубликовал фотографию автомобиля, который может быть грузовиком Tesla, однако в компании отказались комментировать появившееся фото[3]. Во время выступлений на презентации модели Semi учредитель компании отметил, что производство подобного электрического грузовика станет новым шагом в сторону освобождения экономики от использования ископаемого топлива[4]. На презентации, которая прошла 16 ноября 2017, стали известны технические характеристики грузовика: на одном заряде аккумулятора он может проехать до 800 километров; без груза Semi может разогнаться до 100 км/ч за 5 секунд, при полной загрузке (36 тонн) — за 20 секунд; коэффициент аэродинамического сопротивления кабины (Cx) заявлен на уровне 0,36. Время полной зарядки аккумулятора составляет 40 минут (при этом на 80 % он заряжается за 30 минут).
+
+Грузовик относится к 8 классу (по американской классификации) с максимальной разрешённой массой более 15 тонн. Стёкла грузовика изготовлены из специального усиленного стекла и отличаются повышенной прочностью.
+
+Протестировать работу каравана автомобилей в беспилотном режиме компания собирается (2017) в пустыне штата Невада[5][6]. В конце января 2018 года появились свидетельства того, что в калифорнийском Саннивейле компания начала испытания грузовика на дорогах общего пользования[7].</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/muLQwKlH_mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+document.getElementById("defaultOpen").click();
+</script>
+
+<br>
+<form action="" class="railway">
+<div class="stripes-block">
+<div class="line"></div>
+<div align="center" style="color:#FFA07A">Информация о поситителе сайта </div>
+<div class="form-group">
+<input type="text" id="name" required><label for="name">-->Имя</label>
+<input type="text" id="pass" required><label for="pass">-->Фамилия</label>
+<input type="name" id="name" required><label for="email">-->Отчество</label>
+<input type="text" id="phone" required><label for="phone">-->Номер телефона</label>
+<input type="email" id="email" required><label for="email">-->Email</label>
+</div>
+<div class="submit-block">
+<div class="submit-button">
+<i class="fa fa-train" aria-hidden="true"></i><br>
+<input type="submit" value="Отправить">
+</div>
+</div>
+</form>
+<div align="center" style="color:#4B0082">ПОСЛУШАТЬ МУЗЫКУ</div>
+</head>
+    <audio controls>
+      <source src="PHONK WALKER - UNDERGROUND.mp3">
+        <audio controls>
+          <source src="Snop_Dogg_-_Still_DRE_68365171.mp3">
+
+        </head>
+        <style media="screen">
+        <div id="cnt">
+          <!--LiveInternet counter--><script type="text/javascript"><!--
+          document.write("<a href='http://www.liveinternet.ru/click' "+
+          "target="_blank"><img src='//counter.yadro.ru/hit?t11.8;r"+
+          escape(document.referrer)+((typeof(screen)=="undefined")?"":
+          ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+          screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+          ";"+Math.random()+
+          "' alt='' title='LiveInternet: показано число просмотров за 24"+
+          " часа, посетителей за 24 часа и за сегодня' "+
+          "border='0' width='88' height='31'><\/a>")
+          //--></script><!--/LiveInternet-->
+        </div>
+        </style>
+<style media="screen">
+body {
+  background-color: #FFFFE0;
+}
+</style>
+
+  <body>
+
+  </body>
+</html>
